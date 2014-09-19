@@ -11,3 +11,5 @@
 	mysql-connector-java-5.1.4.jar
 	nutz-1.a.24.jar
 	standard-1.1.2.jar
+	
+商品的增删改查，因为sql的view建立失败，运行有点问题
